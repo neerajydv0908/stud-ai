@@ -1,0 +1,6 @@
+# Stud-AI: what it needs to train, test and predict. Tested with the versions in the README.
+catboost>=1.2.7,<1.3
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.4
+matplotlib>=3.8

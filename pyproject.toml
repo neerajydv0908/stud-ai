@@ -1,0 +1,10 @@
+[project]
+name = "stud-ai"
+version = "1.1.0"
+description = "Stud-AI: estimated risk of not passing the next examination in each subject (CatBoost)"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"
